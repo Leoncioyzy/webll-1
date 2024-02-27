@@ -1,0 +1,22 @@
+*
+
+{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin:25px;
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    color:green;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p {color:black; text-align: justify;border-radius: 8px ;border-style:solid;padding:  25px;}
+img
+{width: 45;}
+body{
+    background-color: brown;
+}
